@@ -43,6 +43,7 @@
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.rad.msn.com
+0.0.0.0 a23-218-212-69.deploy.static.akamaitechnologies.com
 0.0.0.0 ac3.msn.com
 0.0.0.0 activity.windows.com
 0.0.0.0 adnexus.net
@@ -50,12 +51,14 @@
 0.0.0.0 ads.msn.com
 0.0.0.0 ads1.msads.net
 0.0.0.0 ads1.msn.com
+0.0.0.0 adsmockarc.azurewebsites.net
 0.0.0.0 aidps.atdmt.com
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 array101-prod.do.dsp.mp.microsoft.com
 0.0.0.0 array102-prod.do.dsp.mp.microsoft.com
 0.0.0.0 array103-prod.do.dsp.mp.microsoft.com
 0.0.0.0 array104-prod.do.dsp.mp.microsoft.com
+0.0.0.0 auth.gfx.ms
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 b.rad.msn.com
@@ -200,6 +203,7 @@
 0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
 0.0.0.0 h1.msn.com
 0.0.0.0 h2.msn.com
+0.0.0.0 help.bingads.microsoft.com
 0.0.0.0 i-by3p-cor001.api.p001.1drv.com
 0.0.0.0 i-ch1-cor001.api.p001.1drv.com
 0.0.0.0 i-sn2-cor001.api.p001.1drv.com
@@ -229,6 +233,7 @@
 0.0.0.0 rad.msn.com
 0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 schemas.microsoft.akadns.net
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.flashtalking.com
@@ -237,6 +242,7 @@
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 settings.data.glbdns2.microsoft.com
 0.0.0.0 settings.data.microsoft.com
+0.0.0.0 sgmetrics.cloudapp.net
 0.0.0.0 sn3301-c.1drv.com
 0.0.0.0 sn3301-e.1drv.com
 0.0.0.0 sn3301-g.1drv.com
@@ -323,7 +329,7 @@
 0.0.0.0 settings-ssl.xboxlive.com
 0.0.0.0 static.2mdn.net
 0.0.0.0 store-images.s-microsoft.com
-0.0.0.0 storeedgefd.dsx.mp.microsoft.com
+# 0.0.0.0 storeedgefd.dsx.mp.microsoft.com
 0.0.0.0 tile-service.weather.microsoft.com
 0.0.0.0 time.windows.com
 0.0.0.0 tk2.plt.msn.com
