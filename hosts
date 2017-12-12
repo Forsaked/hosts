@@ -68,6 +68,7 @@
 0.0.0.0 array404-prod.do.dsp.mp.microsoft.com
 0.0.0.0 array405-prod.do.dsp.mp.microsoft.com
 0.0.0.0 array406-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array407-prod.do.dsp.mp.microsoft.com
 0.0.0.0 array408-prod.do.dsp.mp.microsoft.com
 0.0.0.0 auth.gfx.ms
 0.0.0.0 b.ads1.msn.com
@@ -97,6 +98,7 @@
 0.0.0.0 ca.telemetry.microsoft.com
 0.0.0.0 cache.datamart.windows.com
 0.0.0.0 cdn.atdmt.com
+0.0.0.0 cds20475.lcy.llnw.net
 0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 cds459.lcy.llnw.net
 0.0.0.0 cds965.lon.llnw.net
@@ -143,7 +145,9 @@
 0.0.0.0 db5sch101101334.wns.windows.com
 0.0.0.0 db5sch101101419.wns.windows.com
 0.0.0.0 db5sch101101426.wns.windows.com
+0.0.0.0 db5sch101101427.wns.windows.com
 0.0.0.0 db5sch101101430.wns.windows.com
+0.0.0.0 db5sch101101445.wns.windows.com
 0.0.0.0 db5sch101101511.wns.windows.com
 0.0.0.0 db5sch101101519.wns.windows.com
 0.0.0.0 db5sch101101535.wns.windows.com
@@ -161,6 +165,7 @@
 0.0.0.0 db5sch101101914.wns.windows.com
 0.0.0.0 db5sch101101939.wns.windows.com
 0.0.0.0 db5sch101102015.wns.windows.com
+0.0.0.0 db5sch101102017.wns.windows.com
 0.0.0.0 db5sch101102025.wns.windows.com
 0.0.0.0 db5sch101102032.wns.windows.com
 0.0.0.0 db5sch101102033.wns.windows.com
@@ -183,6 +188,7 @@
 0.0.0.0 db5sch101110501.wns.windows.com
 0.0.0.0 db5sch101110527.wns.windows.com
 0.0.0.0 db5sch101110533.wns.windows.com
+0.0.0.0 db5sch101110618.wns.windows.com
 0.0.0.0 db5sch101110622.wns.windows.com
 0.0.0.0 db5sch101110626.wns.windows.com
 0.0.0.0 db5sch101110634.wns.windows.com
@@ -216,6 +222,7 @@
 0.0.0.0 db5sch103092109.wns.windows.com
 0.0.0.0 db5sch103092209.wns.windows.com
 0.0.0.0 db5sch103100117.wns.windows.com
+0.0.0.0 db5sch103100221.wns.windows.com
 0.0.0.0 db5sch103100313.wns.windows.com
 0.0.0.0 db5sch103100510.wns.windows.com
 0.0.0.0 db5sch103100511.wns.windows.com
@@ -225,7 +232,10 @@
 0.0.0.0 db5sch103101513.wns.windows.com
 0.0.0.0 db5sch103101611.wns.windows.com
 0.0.0.0 db5sch103101705.wns.windows.com
+0.0.0.0 db5sch103101711.wns.windows.com
+0.0.0.0 db5sch103102009.wns.windows.com
 0.0.0.0 db5sch103102112.wns.windows.com
+0.0.0.0 db5sch103102404.wns.windows.com
 0.0.0.0 db5sch103102609.wns.windows.com
 0.0.0.0 db5sch103102610.wns.windows.com
 0.0.0.0 db5wns1d.wns.windows.com
@@ -233,7 +243,9 @@
 0.0.0.0 db6sch102090203.wns.windows.com
 0.0.0.0 db6sch102090208.wns.windows.com
 0.0.0.0 db6sch102090209.wns.windows.com
+0.0.0.0 db6sch102090211.wns.windows.com
 0.0.0.0 db6sch102090305.wns.windows.com
+0.0.0.0 db6sch102090306.wns.windows.com
 0.0.0.0 db6sch102090311.wns.windows.com
 0.0.0.0 db6sch102090313.wns.windows.com
 0.0.0.0 db6sch102090410.wns.windows.com
@@ -245,14 +257,17 @@
 0.0.0.0 db6sch102090514.wns.windows.com
 0.0.0.0 db6sch102090613.wns.windows.com
 0.0.0.0 db6sch102090619.wns.windows.com
+0.0.0.0 db6sch102090810.wns.windows.com
 0.0.0.0 db6sch102090811.wns.windows.com
 0.0.0.0 db6sch102090902.wns.windows.com
+0.0.0.0 db6sch102090905.wns.windows.com
 0.0.0.0 db6sch102090907.wns.windows.com
 0.0.0.0 db6sch102090910.wns.windows.com
 0.0.0.0 db6sch102090911.wns.windows.com
 0.0.0.0 db6sch102091007.wns.windows.com
 0.0.0.0 db6sch102091008.wns.windows.com
 0.0.0.0 db6sch102091105.wns.windows.com
+0.0.0.0 db6sch102091209.wns.windows.com
 0.0.0.0 db6sch102091305.wns.windows.com
 0.0.0.0 db6sch102091307.wns.windows.com
 0.0.0.0 db6sch102091309.wns.windows.com
@@ -316,6 +331,7 @@
 0.0.0.0 secure.flashtalking.com
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 settings-sandbox.data.microsoft.com
+0.0.0.0 settings-win-ppe.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 settings.data.glbdns2.microsoft.com
 0.0.0.0 settings.data.microsoft.com
@@ -363,6 +379,7 @@
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 win10.ipv6.microsoft.com
+0.0.0.0 win1710.ipv6.microsoft.com
 0.0.0.0 www.msedge.net
 
 # Microsoft Extras
@@ -394,17 +411,21 @@
 #0.0.0.0 licensing.mp.microsoft.com
 #0.0.0.0 login.live.com
 #0.0.0.0 m.hotmail.com
+#0.0.0.0 mediaredirect.microsoft.com
 #0.0.0.0 msftncsi.com
 #0.0.0.0 officeclient.microsoft.com
 #0.0.0.0 oneclient.sfx.ms
 #0.0.0.0 pricelist.skype.com
+#0.0.0.0 pti.store.microsoft.com
 #0.0.0.0 query.prod.cms.rt.microsoft.com
+#0.0.0.0 register.cdpcs.microsoft.com
 #0.0.0.0 s.gateway.messenger.live.com
 #0.0.0.0 s0.2mdn.net
-#0.0.0.0 sO.2mdn.net
 #0.0.0.0 search.msn.com
 #0.0.0.0 settings-ssl.xboxlive.com
+#0.0.0.0 sO.2mdn.net
 #0.0.0.0 static.2mdn.net
+#0.0.0.0 storage.live.com
 #0.0.0.0 store-images.s-microsoft.com
 #0.0.0.0 storeedgefd.dsx.mp.microsoft.com
 #0.0.0.0 tile-service.weather.microsoft.com
