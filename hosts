@@ -670,6 +670,7 @@
 #0.0.0.0 wscont.apps.microsoft.com
 #0.0.0.0 www.msftconnecttest.com
 #0.0.0.0 www.msftncsi.com
+
 # Microsoft Update
 #0.0.0.0 000202-1.l.windowsupdate.com
 #0.0.0.0 0002c3-1.l.windowsupdate.com
