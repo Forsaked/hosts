@@ -86,6 +86,7 @@
 0.0.0.0 bn2b-cor004.api.p001.1drv.com
 0.0.0.0 bn2wns1.wns.windows.com
 0.0.0.0 bn3p-cor001.api.p001.1drv.com
+0.0.0.0 bn3sch020010558.wns.windows.com
 0.0.0.0 bn3sch020010560.wns.windows.com
 0.0.0.0 bn3sch020010618.wns.windows.com
 0.0.0.0 bn3sch020010629.wns.windows.com
@@ -102,6 +103,7 @@
 0.0.0.0 bn3sch020022361.wns.windows.com
 0.0.0.0 bn4sch101120814.wns.windows.com
 0.0.0.0 bn4sch101120818.wns.windows.com
+0.0.0.0 bn4sch101120911.wns.windows.com
 0.0.0.0 bn4sch101120913.wns.windows.com
 0.0.0.0 bn4sch101121019.wns.windows.com
 0.0.0.0 bn4sch101121109.wns.windows.com
@@ -231,6 +233,7 @@
 0.0.0.0 db5sch101101844.wns.windows.com
 0.0.0.0 db5sch101101902.wns.windows.com
 0.0.0.0 db5sch101101907.wns.windows.com
+0.0.0.0 db5sch101101910.wns.windows.com
 0.0.0.0 db5sch101101914.wns.windows.com
 0.0.0.0 db5sch101101929.wns.windows.com
 0.0.0.0 db5sch101101939.wns.windows.com
@@ -268,6 +271,8 @@
 0.0.0.0 db5sch101110438.wns.windows.com
 0.0.0.0 db5sch101110442.wns.windows.com
 0.0.0.0 db5sch101110501.wns.windows.com
+0.0.0.0 db5sch101110510.wns.windows.com
+0.0.0.0 db5sch101110518.wns.windows.com
 0.0.0.0 db5sch101110527.wns.windows.com
 0.0.0.0 db5sch101110533.wns.windows.com
 0.0.0.0 db5sch101110618.wns.windows.com
@@ -279,6 +284,7 @@
 0.0.0.0 db5sch101110705.wns.windows.com
 0.0.0.0 db5sch101110713.wns.windows.com
 0.0.0.0 db5sch101110724.wns.windows.com
+0.0.0.0 db5sch101110729.wns.windows.com
 0.0.0.0 db5sch101110740.wns.windows.com
 0.0.0.0 db5sch101110810.wns.windows.com
 0.0.0.0 db5sch101110816.wns.windows.com
@@ -306,6 +312,7 @@
 0.0.0.0 db5sch103082712.wns.windows.com
 0.0.0.0 db5sch103082806.wns.windows.com
 0.0.0.0 db5sch103090115.wns.windows.com
+0.0.0.0 db5sch103090210.wns.windows.com
 0.0.0.0 db5sch103090414.wns.windows.com
 0.0.0.0 db5sch103090415.wns.windows.com
 0.0.0.0 db5sch103090513.wns.windows.com
@@ -320,6 +327,7 @@
 0.0.0.0 db5sch103091108.wns.windows.com
 0.0.0.0 db5sch103091212.wns.windows.com
 0.0.0.0 db5sch103091311.wns.windows.com
+0.0.0.0 db5sch103091313.wns.windows.com
 0.0.0.0 db5sch103091414.wns.windows.com
 0.0.0.0 db5sch103091511.wns.windows.com
 0.0.0.0 db5sch103091609.wns.windows.com
@@ -355,6 +363,7 @@
 0.0.0.0 db5sch103101611.wns.windows.com
 0.0.0.0 db5sch103101705.wns.windows.com
 0.0.0.0 db5sch103101711.wns.windows.com
+0.0.0.0 db5sch103101813.wns.windows.com
 0.0.0.0 db5sch103101909.wns.windows.com
 0.0.0.0 db5sch103101914.wns.windows.com
 0.0.0.0 db5sch103102009.wns.windows.com
@@ -366,6 +375,7 @@
 0.0.0.0 db5sch103102410.wns.windows.com
 0.0.0.0 db5sch103102609.wns.windows.com
 0.0.0.0 db5sch103102610.wns.windows.com
+0.0.0.0 db5sch103102710.wns.windows.com
 0.0.0.0 db5sch103102711.wns.windows.com
 0.0.0.0 db5sch103102805.wns.windows.com
 0.0.0.0 db5wns1d.wns.windows.com
@@ -378,6 +388,7 @@
 0.0.0.0 db6sch102090206.wns.windows.com
 0.0.0.0 db6sch102090208.wns.windows.com
 0.0.0.0 db6sch102090209.wns.windows.com
+0.0.0.0 db6sch102090210.wns.windows.com
 0.0.0.0 db6sch102090211.wns.windows.com
 0.0.0.0 db6sch102090212.wns.windows.com
 0.0.0.0 db6sch102090305.wns.windows.com
@@ -411,6 +422,7 @@
 0.0.0.0 db6sch102091103.wns.windows.com
 0.0.0.0 db6sch102091105.wns.windows.com
 0.0.0.0 db6sch102091204.wns.windows.com
+0.0.0.0 db6sch102091205.wns.windows.com
 0.0.0.0 db6sch102091209.wns.windows.com
 0.0.0.0 db6sch102091305.wns.windows.com
 0.0.0.0 db6sch102091307.wns.windows.com
@@ -517,6 +529,8 @@
 0.0.0.0 hk2wns1.wns.windows.com
 0.0.0.0 hk2wns1b.wns.windows.com
 0.0.0.0 i-bl6p-cor001.api.p001.1drv.com
+0.0.0.0 i-bl6p-cor002.api.p001.1drv.com
+0.0.0.0 i-bn3p-cor001.api.p001.1drv.com
 0.0.0.0 i-by3p-cor001.api.p001.1drv.com
 0.0.0.0 i-by3p-cor002.api.p001.1drv.com
 0.0.0.0 i-ch1-cor001.api.p001.1drv.com
